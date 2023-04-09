@@ -78,6 +78,7 @@ Awesome list of status pages open source software, online services and public st
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
 * ~~[Statusy](https://statusy.co) *(Discontinued)*~~
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
+* [Uptime.com](https://uptime.com/status-page) - website monitoring, API monitoring, and public status pages,
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
